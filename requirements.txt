@@ -2,3 +2,4 @@ flask
 gunicorn
 requests
 flask_socketio
+flask_sockets
